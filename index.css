@@ -1,0 +1,31 @@
+.okno{
+
+margin-top: 60px;
+    position: absolute;
+    width: 1500px;
+    height: 118px;
+    left: 0px;
+    top: 57px;
+    
+    background: linear-gradient(180deg, #C63434 0%, rgba(209, 94, 94, 0.794715) 33.33%, rgba(228, 159, 159, 0.473958) 58.85%, rgba(255, 255, 255, 0) 100%), #C3E47C;
+   }
+.circle{
+    position: absolute;
+    width: 225px;
+    height: 849px;
+    left: 639px;
+    top: 175px;
+    
+    background: #F5D872;
+}
+div.row:hover{
+background: black;
+}
+#er{
+    width: 100px;
+    height: 80px;
+    margin: 50px;
+    background: red;
+    padding:50px;
+    display: inline;
+}
